@@ -1,0 +1,12 @@
+{
+  "name": "alohomore-pdf",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://delpinomusic.github.io/Alohomore-pdf",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
